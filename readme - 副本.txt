@@ -1,0 +1,1 @@
+一个长按复制取次的开源库。SelectWord，MarkDemo
