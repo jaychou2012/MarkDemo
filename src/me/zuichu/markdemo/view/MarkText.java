@@ -140,7 +140,7 @@ public class MarkText extends MarkTextParent implements OnClickListener {
 			@Override
 			public void onClick(View v) {
 				clearHandler();
-				setSelection(0);
+				setSelection(getSelectionStart());
 				isLongClick = false;
 				setIsSelect(false);
 				rl_root.removeView(tv_float);
