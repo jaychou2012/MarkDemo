@@ -1,7 +1,3 @@
-一个长按复制取次的开源库。SelectWord，MarkDemo
-
-
-
 ## 《Android开发进阶实战：拓展与提升》已出版
 
 
